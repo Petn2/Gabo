@@ -1,0 +1,37 @@
+*{
+    box-sizing: border box;
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+  width: 70%;
+  margin: auto;
+  border: 1px solid black;
+  display: flex;
+}
+
+.step {
+  width: 85%;
+  margin: auto;
+  border: 1px solid red;
+  display: flex;
+  justify-self: start;
+  padding: 25px
+}
+
+.child-1 {
+  width: 40%;
+  margin: auto;
+  border: 1px solid black;
+  display: flex;
+}
+
+.child-2 {
+  width: 40%;
+  margin: auto;
+  border: 1px solid black;
+  display: flex;
+}
+
+
