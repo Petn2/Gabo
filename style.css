@@ -378,6 +378,9 @@ p {
 
 .flex-ord1, .flex-ord2, .flex-ord3 {
   background-color: rgb(0, 0, 0);
+  border: solid rgb(204, 139, 18) 1px;
+  border-radius: 10px;
+  margin-top: 25px;
   display: flex;
   width: 30%;
   flex-direction: column;
