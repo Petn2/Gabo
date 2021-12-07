@@ -5,9 +5,7 @@
 }
 
 body {
-  background-image: url('images/bg.png');
-  background-repeat: no-repeat; 
-  background-size: cover;
+  background-color: rgb(231, 163, 74);
   padding-bottom: 100px;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
